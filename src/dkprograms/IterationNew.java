@@ -1,0 +1,31 @@
+package dkprograms;
+
+public class IterationNew {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int a=4;
+		
+		for(int i=1;i<=40;i++) {
+			
+			a=i*4;
+			
+			System.out.println(a);
+			
+			
+			/*
+			 * int a=4;
+		for (int i=1;i<=100; i++) 
+		{
+		a=i*4;
+		
+		System.out.println(-a);
+		
+			 */
+		}
+
+	}
+
+}
