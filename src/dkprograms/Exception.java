@@ -16,7 +16,7 @@ public class Exception {
 		
 		System.out.println("expecion has be handled");
 	}
-	finally {
+	finally {//this will always execute....
 		
 		System.out.println("this will always exceute");
 	}
