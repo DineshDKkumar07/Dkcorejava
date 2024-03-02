@@ -15,13 +15,13 @@ public class Assignment_41 {
 			char answer = name.charAt(i);//string function
 			
 			reverse=reverse+answer;//operation
-			
+	
 			
 		}
-		
+	//	System.out.println(reverse);
 		
 		boolean a1=name.equals(reverse);
-		System.out.println(a1);
+	//	System.out.println(a1);
 		
 		
 	
