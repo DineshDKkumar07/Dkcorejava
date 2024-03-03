@@ -17,7 +17,7 @@ public class ReverseString {
 			
 			reverse=reverse+answer;
 			
-			boolean values=name.equals(name);
+			//boolean values=name.equals(name);
 			
 			
 		}
