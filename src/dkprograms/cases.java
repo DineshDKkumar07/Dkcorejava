@@ -12,7 +12,7 @@ public class cases {
 		{
 		
 		case "he is good boy":
-			System.out.println("yes heis good boy");
+			System.out.println("yes he is good boy");
 		break;
 		
 			
