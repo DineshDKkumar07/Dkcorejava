@@ -10,4 +10,5 @@ public class ArrayNew {
 		System.out.println("bye");
 	}
 
+
 }

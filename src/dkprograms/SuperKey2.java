@@ -13,7 +13,7 @@ class pep extends dep{
 	
 	void add() {
 		
-		super.add();
+		super.add();//method overriding
  
 	System.out.println("be nice");
 	

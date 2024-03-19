@@ -18,14 +18,16 @@ public class Topics {
 	// oops abstract class
 	// SIB IIB
 	// scanner class
-	// *string functions
+	// access modifier
+	// Type casting
+	// Exceptional handling and it's types...Try catch and finally block.
+	//Assertion
+	//*string functions
 	// *arrays 
 	// *iteration...(average,sum of values,loop never ends,even and odd numbers,.........)
 	// *keywords ....super,Final,this
 	// *super calling statement
-	// access modifier
-	// Type casting
-	//Exceptional handling and it's types...Try catch and finally block.
-	//
+	//collection
+	
 	
 }

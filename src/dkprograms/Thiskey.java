@@ -9,10 +9,9 @@ public class Thiskey {
 	
 	void display(int a, int b) {
 		
-		//this. a= a;
-		//this.b=b;
-		System.out.println(a );
-		System.out.println(b );
+		this. a= a;
+		this.b=b;
+		
 		
 		
 	}
@@ -21,6 +20,9 @@ public class Thiskey {
 		
 		Thiskey t1 = new Thiskey();
 		t1.display(10, 20);
+		System.out.println(t1.a);
+		System.out.println(t1.b);
+		
 		
 
 	}

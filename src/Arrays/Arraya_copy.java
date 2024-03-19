@@ -22,6 +22,7 @@ public class Arraya_copy {
 			System.out.println(Array2[1]);
 			System.out.println(Array2[2]);
 			System.out.println(Array2[3]);
+		
 			
 			
 					}
