@@ -13,7 +13,7 @@ public class Datedemo {
 		
 		//System.out.println(d);
 		
-		Date d1= new Date(d.getTime()); //- past or future time we can use this(1000*60*60*24*2));
+		Date d1= new Date(1000*60*60*24*2); //- past or future time we can use this(1000*60*60*24*2));
 		
 		System.out.println(d1);
 		

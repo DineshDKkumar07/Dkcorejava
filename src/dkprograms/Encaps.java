@@ -4,15 +4,16 @@ class importantinfo{
 	
 	private String un="customer@gmail.com";
 	
-
+	
+	public void setUn(String un) {
+		this.un = un;
+	}
 	
 	public String getUn() {
 		return un;
 	}
 
-	public void setUn(String un) {
-		this.un = un;
-	}
+	
 }
 
 public class Encaps {
